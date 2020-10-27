@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/reserva-hotelera/static/css/main.2f9a0730.chunk.css",
+    "main.js": "/reserva-hotelera/static/js/main.05d9e9a5.chunk.js",
+    "main.js.map": "/reserva-hotelera/static/js/main.05d9e9a5.chunk.js.map",
+    "runtime-main.js": "/reserva-hotelera/static/js/runtime-main.09d3f2df.js",
+    "runtime-main.js.map": "/reserva-hotelera/static/js/runtime-main.09d3f2df.js.map",
+    "static/js/2.80d31e13.chunk.js": "/reserva-hotelera/static/js/2.80d31e13.chunk.js",
+    "static/js/2.80d31e13.chunk.js.map": "/reserva-hotelera/static/js/2.80d31e13.chunk.js.map",
+    "index.html": "/reserva-hotelera/index.html",
+    "precache-manifest.729e563e5f25604cada362f7b7be6681.js": "/reserva-hotelera/precache-manifest.729e563e5f25604cada362f7b7be6681.js",
+    "service-worker.js": "/reserva-hotelera/service-worker.js",
+    "static/css/main.2f9a0730.chunk.css.map": "/reserva-hotelera/static/css/main.2f9a0730.chunk.css.map",
+    "static/js/2.80d31e13.chunk.js.LICENSE.txt": "/reserva-hotelera/static/js/2.80d31e13.chunk.js.LICENSE.txt",
+    "static/media/alto-atacama.jpg": "/reserva-hotelera/static/media/alto-atacama.632f5b25.jpg",
+    "static/media/azur-real.jpg": "/reserva-hotelera/static/media/azur-real.7c8f1bd2.jpg",
+    "static/media/campo-tinto.jpg": "/reserva-hotelera/static/media/campo-tinto.ee9a6135.jpg",
+    "static/media/casa-higueras.jpg": "/reserva-hotelera/static/media/casa-higueras.b1c377cc.jpg",
+    "static/media/casa-turquesa.jpg": "/reserva-hotelera/static/media/casa-turquesa.f91c2e01.jpg",
+    "static/media/entre-cielos.jpg": "/reserva-hotelera/static/media/entre-cielos.63abb3f6.jpg",
+    "static/media/huacalera.jpg": "/reserva-hotelera/static/media/huacalera.ea003688.jpg",
+    "static/media/la-bamba-de-areco.jpg": "/reserva-hotelera/static/media/la-bamba-de-areco.07731eba.jpg",
+    "static/media/luma-casa-de-montana.jpg": "/reserva-hotelera/static/media/luma-casa-de-montana.5f33c377.jpg",
+    "static/media/merced-del-alto.jpg": "/reserva-hotelera/static/media/merced-del-alto.4fba0fc1.jpg",
+    "static/media/ponta-dos-ganchos.jpg": "/reserva-hotelera/static/media/ponta-dos-ganchos.f24a2410.jpg",
+    "static/media/rincon-del-socorro.jpg": "/reserva-hotelera/static/media/rincon-del-socorro.e8d6823f.jpg",
+    "static/media/sainte-jeanne.jpg": "/reserva-hotelera/static/media/sainte-jeanne.472d43c7.jpg",
+    "static/media/tierra-patagonia.jpg": "/reserva-hotelera/static/media/tierra-patagonia.7a577091.jpg",
+    "static/media/uxua-casa.jpg": "/reserva-hotelera/static/media/uxua-casa.a77b33b2.jpg",
+    "static/media/vik-chile.jpg": "/reserva-hotelera/static/media/vik-chile.e578428a.jpg",
+    "static/media/vila-da-santa.jpg": "/reserva-hotelera/static/media/vila-da-santa.cb67834d.jpg",
+    "static/media/vira-vira.jpg": "/reserva-hotelera/static/media/vira-vira.22300bcf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09d3f2df.js",
+    "static/js/2.80d31e13.chunk.js",
+    "static/css/main.2f9a0730.chunk.css",
+    "static/js/main.05d9e9a5.chunk.js"
+  ]
+}
