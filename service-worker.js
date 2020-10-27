@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/reserva-hotelera/precache-manifest.729e563e5f25604cada362f7b7be6681.js"
+  "/reserva-hotelera/precache-manifest.a34021c0662fa91f69045a6c4d62db03.js"
 );
 
 self.addEventListener('message', (event) => {

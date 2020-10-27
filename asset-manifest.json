@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reserva-hotelera/static/css/main.2f9a0730.chunk.css",
-    "main.js": "/reserva-hotelera/static/js/main.05d9e9a5.chunk.js",
-    "main.js.map": "/reserva-hotelera/static/js/main.05d9e9a5.chunk.js.map",
+    "main.js": "/reserva-hotelera/static/js/main.efb25e68.chunk.js",
+    "main.js.map": "/reserva-hotelera/static/js/main.efb25e68.chunk.js.map",
     "runtime-main.js": "/reserva-hotelera/static/js/runtime-main.09d3f2df.js",
     "runtime-main.js.map": "/reserva-hotelera/static/js/runtime-main.09d3f2df.js.map",
     "static/js/2.80d31e13.chunk.js": "/reserva-hotelera/static/js/2.80d31e13.chunk.js",
     "static/js/2.80d31e13.chunk.js.map": "/reserva-hotelera/static/js/2.80d31e13.chunk.js.map",
     "index.html": "/reserva-hotelera/index.html",
-    "precache-manifest.729e563e5f25604cada362f7b7be6681.js": "/reserva-hotelera/precache-manifest.729e563e5f25604cada362f7b7be6681.js",
+    "precache-manifest.a34021c0662fa91f69045a6c4d62db03.js": "/reserva-hotelera/precache-manifest.a34021c0662fa91f69045a6c4d62db03.js",
     "service-worker.js": "/reserva-hotelera/service-worker.js",
     "static/css/main.2f9a0730.chunk.css.map": "/reserva-hotelera/static/css/main.2f9a0730.chunk.css.map",
     "static/js/2.80d31e13.chunk.js.LICENSE.txt": "/reserva-hotelera/static/js/2.80d31e13.chunk.js.LICENSE.txt",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.09d3f2df.js",
     "static/js/2.80d31e13.chunk.js",
     "static/css/main.2f9a0730.chunk.css",
-    "static/js/main.05d9e9a5.chunk.js"
+    "static/js/main.efb25e68.chunk.js"
   ]
 }

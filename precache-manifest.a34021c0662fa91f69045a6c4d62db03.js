@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b142d2aa131c9916c62a8aa4b060c10",
+    "revision": "381cce1c9b2539f81d7c4451a3fe1bb1",
     "url": "/reserva-hotelera/index.html"
   },
   {
-    "revision": "99568c40833970999a8d",
+    "revision": "c40a630c09a7f0233d26",
     "url": "/reserva-hotelera/static/css/main.2f9a0730.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reserva-hotelera/static/js/2.80d31e13.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "99568c40833970999a8d",
-    "url": "/reserva-hotelera/static/js/main.05d9e9a5.chunk.js"
+    "revision": "c40a630c09a7f0233d26",
+    "url": "/reserva-hotelera/static/js/main.efb25e68.chunk.js"
   },
   {
     "revision": "07c91fcad61e7cdda213",
