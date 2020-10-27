@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 const ErrorStyles = styled.div`
-    width: 94%;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
